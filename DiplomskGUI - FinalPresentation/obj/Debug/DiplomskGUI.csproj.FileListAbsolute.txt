@@ -1,0 +1,60 @@
+D:\diplomska\DiplomskGUI\bin\Debug\DiplomskGUI.exe.config
+D:\diplomska\DiplomskGUI\bin\Debug\DiplomskGUI.exe
+D:\diplomska\DiplomskGUI\bin\Debug\DiplomskGUI.pdb
+D:\diplomska\DiplomskGUI\obj\Debug\DiplomskGUI.csproj.AssemblyReference.cache
+D:\diplomska\DiplomskGUI\obj\Debug\DiplomskGUI.Form1.resources
+D:\diplomska\DiplomskGUI\obj\Debug\DiplomskGUI.Properties.Resources.resources
+D:\diplomska\DiplomskGUI\obj\Debug\DiplomskGUI.csproj.GenerateResource.cache
+D:\diplomska\DiplomskGUI\obj\Debug\DiplomskGUI.csproj.CoreCompileInputs.cache
+D:\diplomska\DiplomskGUI\obj\Debug\DiplomskGUI.exe
+D:\diplomska\DiplomskGUI\obj\Debug\DiplomskGUI.pdb
+D:\diplomska\DiplomskGUI - Copy (2)\bin\Debug\DiplomskGUI.exe.config
+D:\diplomska\DiplomskGUI - Copy (2)\bin\Debug\DiplomskGUI.exe
+D:\diplomska\DiplomskGUI - Copy (2)\bin\Debug\DiplomskGUI.pdb
+D:\diplomska\DiplomskGUI - Copy (2)\obj\Debug\DiplomskGUI.csproj.AssemblyReference.cache
+D:\diplomska\DiplomskGUI - Copy (2)\obj\Debug\DiplomskGUI.Form1.resources
+D:\diplomska\DiplomskGUI - Copy (2)\obj\Debug\DiplomskGUI.Properties.Resources.resources
+D:\diplomska\DiplomskGUI - Copy (2)\obj\Debug\DiplomskGUI.csproj.GenerateResource.cache
+D:\diplomska\DiplomskGUI - Copy (2)\obj\Debug\DiplomskGUI.csproj.CoreCompileInputs.cache
+D:\diplomska\DiplomskGUI - Copy (2)\obj\Debug\DiplomskGUI.exe
+D:\diplomska\DiplomskGUI - Copy (2)\obj\Debug\DiplomskGUI.pdb
+D:\diplomska\DiplomskGUI - Mels\bin\Debug\DiplomskGUI.exe.config
+D:\diplomska\DiplomskGUI - Mels\bin\Debug\DiplomskGUI.exe
+D:\diplomska\DiplomskGUI - Mels\bin\Debug\DiplomskGUI.pdb
+D:\diplomska\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.csproj.AssemblyReference.cache
+D:\diplomska\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.Form1.resources
+D:\diplomska\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.Properties.Resources.resources
+D:\diplomska\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.csproj.GenerateResource.cache
+D:\diplomska\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.csproj.CoreCompileInputs.cache
+D:\diplomska\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.exe
+D:\diplomska\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.pdb
+C:\Users\melan\Downloads\DiplomskGUI-master\DiplomskGUI - Mels\bin\Debug\DiplomskGUI.exe.config
+C:\Users\melan\Downloads\DiplomskGUI-master\DiplomskGUI - Mels\bin\Debug\DiplomskGUI.exe
+C:\Users\melan\Downloads\DiplomskGUI-master\DiplomskGUI - Mels\bin\Debug\DiplomskGUI.pdb
+C:\Users\melan\Downloads\DiplomskGUI-master\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.csproj.AssemblyReference.cache
+C:\Users\melan\Downloads\DiplomskGUI-master\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.Form1.resources
+C:\Users\melan\Downloads\DiplomskGUI-master\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.Properties.Resources.resources
+C:\Users\melan\Downloads\DiplomskGUI-master\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.csproj.GenerateResource.cache
+C:\Users\melan\Downloads\DiplomskGUI-master\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.csproj.CoreCompileInputs.cache
+C:\Users\melan\Downloads\DiplomskGUI-master\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.exe
+C:\Users\melan\Downloads\DiplomskGUI-master\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.pdb
+C:\Users\pepi\RiderProjects\Diplomska_GUI\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.exe
+C:\Users\pepi\RiderProjects\Diplomska_GUI\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.pdb
+C:\Users\pepi\RiderProjects\Diplomska_GUI\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.Form1.resources
+C:\Users\pepi\RiderProjects\Diplomska_GUI\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.Properties.Resources.resources
+C:\Users\pepi\RiderProjects\Diplomska_GUI\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.csproj.GenerateResource.Cache
+C:\Users\pepi\RiderProjects\Diplomska_GUI\DiplomskGUI - Mels\bin\Debug\DiplomskGUI.exe.config
+C:\Users\pepi\RiderProjects\Diplomska_GUI\DiplomskGUI - Mels\bin\Debug\DiplomskGUI.exe
+C:\Users\pepi\RiderProjects\Diplomska_GUI\DiplomskGUI - Mels\bin\Debug\DiplomskGUI.pdb
+C:\Users\pepi\RiderProjects\Diplomska_GUI\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.csproj.AssemblyReference.cache
+C:\Users\pepi\RiderProjects\Diplomska_GUI\DiplomskGUI - Mels\obj\Debug\DiplomskGUI.csproj.CoreCompileInputs.cache
+C:\Users\melan\Downloads\For-mel-main\Diplomska_GUI\DiplomskGUI - Pepi\bin\Debug\DiplomskGUI.exe.config
+C:\Users\melan\Downloads\For-mel-main\Diplomska_GUI\DiplomskGUI - Pepi\bin\Debug\DiplomskGUI.exe
+C:\Users\melan\Downloads\For-mel-main\Diplomska_GUI\DiplomskGUI - Pepi\bin\Debug\DiplomskGUI.pdb
+C:\Users\melan\Downloads\For-mel-main\Diplomska_GUI\DiplomskGUI - Pepi\obj\Debug\DiplomskGUI.csproj.AssemblyReference.cache
+C:\Users\melan\Downloads\For-mel-main\Diplomska_GUI\DiplomskGUI - Pepi\obj\Debug\DiplomskGUI.Form1.resources
+C:\Users\melan\Downloads\For-mel-main\Diplomska_GUI\DiplomskGUI - Pepi\obj\Debug\DiplomskGUI.Properties.Resources.resources
+C:\Users\melan\Downloads\For-mel-main\Diplomska_GUI\DiplomskGUI - Pepi\obj\Debug\DiplomskGUI.csproj.GenerateResource.cache
+C:\Users\melan\Downloads\For-mel-main\Diplomska_GUI\DiplomskGUI - Pepi\obj\Debug\DiplomskGUI.csproj.CoreCompileInputs.cache
+C:\Users\melan\Downloads\For-mel-main\Diplomska_GUI\DiplomskGUI - Pepi\obj\Debug\DiplomskGUI.exe
+C:\Users\melan\Downloads\For-mel-main\Diplomska_GUI\DiplomskGUI - Pepi\obj\Debug\DiplomskGUI.pdb
